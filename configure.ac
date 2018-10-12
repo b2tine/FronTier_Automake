@@ -87,6 +87,7 @@ AC_CONFIG_FILES([Makefile
                  lib/Makefile
                  lib/gmock/Makefile
                  tests/Makefile
+                 cFluid/Makefile
                  example2d/Makefile
                  example3d/Makefile])
 
